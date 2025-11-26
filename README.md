@@ -79,3 +79,8 @@ Upload two images (image1, image2)
 Click Execute
 
 See JSON response with similarity score and result.
+
+cd Task2
+pip install -r ../requirements.txt    # or use your virtualenv
+uvicorn main:app --reload
+
