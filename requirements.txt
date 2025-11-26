@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+facenet-pytorch
+torch
+Pillow
+numpy
+beautifulsoup4
+requests
+pandas
+lxml
